@@ -32,4 +32,4 @@ build/
 Thumbs.db
 
 # Ignore dev-wallet.json
-dev-wallet.json
+dev-wallet*.json
